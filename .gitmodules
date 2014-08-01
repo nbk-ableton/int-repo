@@ -1,0 +1,3 @@
+[submodule "mod-repo"]
+	path = mod-repo
+	url = git@github.com:nbk-ableton/mod-repo.git
