@@ -1,6 +1,6 @@
 language: node_js
 
-script: echo DONE
+script: echo ghghdha
 
 notifications:
   webhooks: https://2fdaae21.ngrok.com/travis/canary/pr
